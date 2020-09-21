@@ -1,3 +1,3 @@
 # Churn-Analysis-for-Telecom-Company
 
-Conducted classification, and performed cluster analysis of pandemic data, to identify case-based different cohort conditioned with mortality, death-per-million, critical-per-million, and tests-conducted
+Applied Logistic Regression, on complex dataset (telecom company), to understand the customer behavior and features leading to their decision in cancelling the telecom service
